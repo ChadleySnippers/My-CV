@@ -1,0 +1,48 @@
+/* General Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Styling */
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Profile Image Styling */
+header img {
+    border-radius: 50%;
+    max-width: 150px;
+    margin-bottom: 10px;
+}
+
+/* Section Styling */
+.personal-details,
+.educational-qualifications,
+.employment-experience,
+.bio {
+    padding: 20px;
+}
+
+/* List Styling */
+ul, ol {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Additional Styling as Needed */
+
+/* Link Styling */
+a {
+    color: #4CAF50;
+    text-decoration: none;
+}
+
+/* Hover Effect for Links */
+a:hover {
+    text-decoration: underline;
+}
